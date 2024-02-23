@@ -1,1 +1,2 @@
-This is a picture host.
+# This is a picture host.
+----
